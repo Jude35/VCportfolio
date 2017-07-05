@@ -23,8 +23,12 @@ These are my journey in research, study, and learning of various technologies th
 * Cloud Adventure
 * Security Adventure
 
+### Treks I work with:
 
-first header | second header
--------------|--------------
-content 1 | content 2
-content 3 | content 4
+
+
+### Testimonials
+
+Show your Love!
+
+Copyright 2017: JDCE
