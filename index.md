@@ -13,9 +13,11 @@ These are my journey in research, study, and learning of various technologies th
 
 * Jekyll Adventure
 * HTML5, CSS3, Javascript Adventure
+* Powtoon Adventure
 * Bootstrap and Materialize Adventure
 * MEAN Stack Adventure
 * REACT Adventure
+* Angular JS Adventure
 * Friendly Linux Adventure
 * Hardcore Linux Adventure
 * MS Windows Adventure
